@@ -1,0 +1,43 @@
+{
+  "productTypes": [
+    {
+        "productTypeId": 1,
+        "name": "Candy"
+    },
+    {
+        "productTypeId": 2,
+        "name": "Electronics"
+    },
+    {
+        "productTypeId": 3,
+        "name": "Balloons"
+    }
+  ],
+  "products": [
+    {
+      "productId": 1,
+      "name": "Lollipop",
+      "productTypeId": 1
+  },
+  {
+      "productId": 2,
+      "name": "iPad",
+      "productTypeId": 2
+  },
+  {
+      "productId": 3,
+      "name": "Snickers",
+      "productTypeId": 1
+  },
+  {
+      "productId": 4,
+      "name": "Baby Ruth",
+      "productTypeId": 1
+  },
+  {
+      "productId": 5,
+      "name": "Xbox One",
+      "productType": 2
+  }
+  ]
+}
